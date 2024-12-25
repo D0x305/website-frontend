@@ -8,10 +8,6 @@ export const zhNavbar = defineNavbarConfig([
   {
     text: '我们',
     link: '/notes/about_us/README.md'
-  },
-  {
-    text: '学习',
-    items: [{ text: '第一期', link: '/notes/about_us/README.md' }]
   }
 ])
 
@@ -21,8 +17,8 @@ export const enNavbar = defineNavbarConfig([
   // { text: 'Tags', link: '/en/blog/tags/' },
   // { text: 'Archives', link: '/en/blog/archives/' },
   {
-    text: 'Notes',
-    items: [{ text: 'Demo', link: '/en/notes/demo/README.md' }]
+    text: 'About Us',
+    link: '/en/notes/demo/README.md'
   }
 ])
 

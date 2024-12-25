@@ -8,19 +8,15 @@ config:
     background: tint-plate
     hero:
       name: "0x305"
-      tagline: Explosive Learning Community
-      text: Focusing on DeSci & Open Science
+      tagline: DeSci Co-learning Community
+      text: Redefining the Paradigm of Scientific Research and Knowledge Sharing
       actions:
         -
           theme: brand
           text: About Us
           link: /en/about_us/
         -
-          theme: brand
-          text: Start Learning
-          link: /en/blog/
-        -
           theme: alt
-          text: Github →
+          text: Start Learning →
           link: https://github.com/D0x305
 ---
